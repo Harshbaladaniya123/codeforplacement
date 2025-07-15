@@ -17,6 +17,6 @@ int main(){
         }
       }
       for(i=0;i<n;i++){
-        cout<<arr1[i]<<" ";
+        cout<<arr1[i]<<"_";
       }
 }
